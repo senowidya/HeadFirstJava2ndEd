@@ -2,7 +2,11 @@
 public class TapeDeck {
 
 	boolean canRecord = false;
+<<<<<<< HEAD
 	int x = 3;
+=======
+	int x = 1;
+>>>>>>> branch 'master' of https://github.com/senowidya/HeadFirstJava2ndEd.git
 	
 	void playTape() {
 		System.out.println("tape playing");
