@@ -2,7 +2,7 @@
 public class TapeDeck {
 
 	boolean canRecord = false;
-	int x = 2;
+	int x = 3;
 	
 	void playTape() {
 		System.out.println("tape playing");
