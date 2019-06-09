@@ -10,8 +10,7 @@ public static void main (String[] args) {
 	if(d.snare == true) {
 
 		d.playSnare();
-		
-}
+		}
 }
 }
 
