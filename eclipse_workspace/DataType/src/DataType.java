@@ -13,7 +13,7 @@ public class DataType {
 	byte v = b;
 	short n = 12;
 //	v=n;
-	byte k = -3;
+	byte k = 127;
 	
 	void aww () {
 		
